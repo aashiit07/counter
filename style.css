@@ -1,0 +1,47 @@
+.people
+{
+    height:400px;
+    width:500px;
+    margin:auto auto;
+}
+.image
+{
+    height:100%;
+    width:100%;
+border-radius:10px;
+position:relative;
+}
+.insideimg
+{
+   position:absolute;
+   text-align:center;
+   top:100px;
+   right:500px;
+   color:rgba(232, 252, 13, 0.758);
+}
+h2{
+    font-weight:bolder;
+    font-size:25px;
+}
+#add
+{
+  border-radius:5px;
+  font-size:15px;
+  height:30px;
+  width:100px;
+  border-color:aqua;
+  border-width:5px;
+  font-weight: bolder;
+  color:rgb(210, 131, 28)
+}
+#save
+{
+    border-radius:5px;
+  font-size:15px;
+  height:30px;
+  width:100px;
+  border-color:aqua;
+  border-width:5px;
+  font-weight: bolder;
+  color:rgb(210, 131, 28)
+}
